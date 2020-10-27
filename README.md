@@ -1,2 +1,2 @@
 # showcase
-This is a showcase of my skills
+This is a showcase. Node.js must be installed for vaadin
