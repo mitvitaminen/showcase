@@ -1,0 +1,25 @@
+.appLogo {
+	background-image: url("img/appLogo.svg");
+	background-size: contain;
+	width: 8em;
+	height: 8em;
+}
+
+.label-24px {
+    font-size: 24px;
+    line-height: normal;
+}
+
+.flagGermanyIcon {	
+	background-image: url("img/flag_germany.svg");
+	background-size: contain;
+	width: 2em;
+	height: 1em;
+}
+
+.flagUsIcon {
+	background-image: url("img/flag_us.svg");
+	background-size: contain;
+	width: 2em;
+	height: 1em;
+}
